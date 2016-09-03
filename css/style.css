@@ -13,6 +13,10 @@ img{
     height: auto;
 }
 
+section{
+    padding: 45px 0 80px 0;
+}
+
 section .heading{
     text-align: center;
     padding-bottom: 40px;
@@ -59,3 +63,71 @@ section .heading{
     color: #d82c2e;
     text-decoration: none;
 }
+
+.red-divider{
+    width: 100px;
+    height: 2px;
+    background: #d82c2e;
+    margin: 0 auto;
+}
+
+
+
+/* SKILLS*/
+
+#skills{
+    background: #fff;
+    
+}
+
+#skills .heading h2{
+    color: #d82c2e;
+    text-transform: uppercase;
+}
+
+#skills .progress{
+    height: 100%;
+    margin: 30px 20px;
+    backface-visibility: #ddd;
+}
+
+#skills .progress-bar{
+    background: #d82c2e;
+    
+}
+
+#skills .progress h5{
+    text-shadow: 1px 1px 1px #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
