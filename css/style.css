@@ -1,0 +1,61 @@
+/* GENERAL */
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1,h2,h3,h4,h4,h5{
+    font-weight: bold;
+}
+
+img{
+    max-width: 75%;
+    height: auto;
+}
+
+section .heading{
+    text-align: center;
+    padding-bottom: 40px;
+    
+}
+
+#about{
+    padding-top: 100px;
+    background: #d82c2e;
+}
+
+.profil-picture{
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+}
+
+
+#about .heading h1{
+    color: #fff;
+    text-transform: uppercase;
+    
+}
+
+#about .heading h3{
+    color: #000;
+    text-transform: capitalize;
+    
+}
+
+.button1{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    border: 1px solid white;
+    margin-top: 20px;
+    padding: 18px 50px;
+    display: inline-block;
+    transition: all 0.3s ease-in 0s;
+}
+
+.button1:hover{
+    background: white;
+    color: #d82c2e;
+    text-decoration: none;
+}
