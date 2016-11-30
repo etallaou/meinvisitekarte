@@ -1,22 +1,18 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>TALLA CV</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-        <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-		
-		<link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato">
-        
+<head>
+    <title>Contactez-moi</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato">
+    <script src="js/script.js"></script>
+</head>
 
-         
-		<sript src="js/script.js"></sript>
-	</head>
-	
-	<body>
+	<body data-spy="scroll" data-target=".navbar" data-offset="60">
         <nav class="navbar navbar-default navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
@@ -34,21 +30,35 @@
                         <li><a href="#education">EDUCATION</a></li>
                         <li><a href="#portfolio">PORTFOLIO</a></li>
                         <li><a href="#recommandations">RECOMMANDATIONS</a></li>
+                        <li><a href="#contact">Contact</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
 		<section id="about" class="container-fluid">
-            <div class="col-xs-8 col-md-4 profil-picture">
-                <img src="images/talla-min.jpg" alt="talla" class="img-circle"> 
-            </div>
-            
+            <!-- <div class="col-xs-8 col-md-4 profil-picture">
+                <img src="images/talla-min.jpg" alt="talla" class="img-circle">
+            </div> -->
+
             <div class="heading">
-                <h1> Hello, I am Edmond</h1>
-                <h3>Web developer</h3>
-                <a href="docs/Lebenslauf.pdf" class="button1">Download CV</a>
-                
+                <h1 class="col-xs-12">Ici notre devise, ici notre devise, oui notre devise</h1>
+                <h3 class="light-blue-gray col-lg-10 col-md-8 col-lg-offset-1 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
+                    on se presente, on se presente, on se presente,on se presente,on se presente,on se presente,
+                    on se presente,on se presente,on se presente,on se presente,on se presente,on se presente,on se pr
+                </h3>
+                <a href="href="#contact" class="button1">contactez nous</a>
+
+                <p class="col-xs-12">
+                    <em>Not on Slack?
+                        <a href="http://pages.talla.com/request-info">
+                            Sign up for product notifications.
+                        </a>
+                    </em>
+                </p>
             </div>
+
+
+
         </section>
         
         <section id="skills">
@@ -183,7 +193,7 @@
             <div class="conatiner">
                 <div class="red-divider"></div>
                 <div class="heading">
-                    <h2>Academic career</h2>
+                    <h2>Education</h2>
                 </div>
                 <div class="row">
                     <div class="col-sm-6">
@@ -297,13 +307,77 @@
             </div>
             
         </section>
+
+        <section id="contact">
+
+            <div class="container">
+                <div class="white-divider"></div>
+                <div class="heading">
+                    <h2>Contactez-moi</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-10 col-lg-offset-1">
+                        <form id="contact-form" method="post" action=""
+                              role="form">
+                            <div class="row">
+
+                                <div class="col-md-6">
+                                    <label for="firstName">Prenom*</label>
+                                    <input id="firstName" type="text" name="firstName" class="form-control"
+                                           placeholder="Votre Prénom">
+                                    <p class="comments"></p>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <label for="name">Nom*</label>
+                                    <input id="name" type="text" name="name" class="form-control" placeholder="Votre Nom">
+                                    <p class="comments"></p>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <label for="email">Email*</label>
+                                    <input id="email" type="text" name="email" class="form-control" placeholder="Votre Email">
+                                    <p class="comments"></p>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <label for="phone">Telephone</label>
+                                    <input id="phone" type="text" name="phone" class="form-control" placeholder="Votre Téléphone"
+                                    >
+                                    <p class="comments"></p>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <label for="message">Message*</label>
+                                    <textarea id="message" name="message" class="form-control" placeholder="Votre Message"
+                                              rows="4"></textarea>
+                                    <p class="comments"></p>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <p><strong>* Ces Informations sont requises</strong></p>
+                                </div>
+                                <div class="col-md-12">
+                                    <input class="button1" type="submit" value="Envoyer">
+                                </div>
+                            </div>
+
+
+
+                        </form>
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
     
         <footer class="text-center">
             <a href="#about">
                 <span class="glyphicon glyphicon-chevron-up"></span>
             </a>
             
-            <h5>© 2016 EDMOND TALLA OUAFEU</h5>
+            <h5>© 2016  EDMOND TALLA OUAFEU</h5>
     
         </footer>
     

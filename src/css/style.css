@@ -29,13 +29,44 @@ section .heading{
 
 section .heading h2{
     text-transform: uppercase;
-    
+    padding-bottom: 25px;
 }
 
+.button1{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    border: 1px solid white;
+    margin-top: 85px;
+    padding: 18px 50px;
+    display: inline-block;
+    transition: all 0.3s ease-in 0s;
+    background: transparent;
+    width: 312px;
+
+}
+
+
+.button1:hover{
+    background: white;
+    color: #d82c2e;
+    text-decoration: none;
+
+
+}
+
+
+
+.light-blue-gray {
+    color: rgba(255,255,255,0.7);
+}
 /*MENU*/
 
+
+
 .navbar{
-    background-color: #d82c2e;
+    background-color: #134374;
+    /* background-image: url("../images/navHeader.png") */
     font-size: 14px;
     letter-spacing: 4px;
     text-transform: uppercase;
@@ -74,7 +105,11 @@ section .heading h2{
 
 #about{
     padding-top: 100px;
-    background: #d82c2e;
+    /* background: #d82c2e; */
+    background-image: url("../images/myheader1.png");
+    background-size: cover;
+    min-height: 840px;
+    padding-bottom: 60px;
 }
 
 .profil-picture{
@@ -87,31 +122,38 @@ section .heading h2{
 #about .heading h1{
     color: #fff;
     text-transform: uppercase;
+    margin-top: 50px;
     
+}
+
+#about .container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 #about .heading h3{
-    color: #000;
-    text-transform: capitalize;
+    color: rgba(255,255,255,0.7);
+    text-transform: lowercase;
+    margin-top: 30px;
+    margin-bottom: 50px;
     
 }
 
-.button1{
-    font-weight: bold;
-    text-transform: uppercase;
-    color: white;
-    border: 1px solid white;
+#about p {
+    color: #fff;
     margin-top: 20px;
-    padding: 18px 50px;
-    display: inline-block;
-    transition: all 0.3s ease-in 0s;
+
 }
 
-.button1:hover{
-    background: white;
-    color: #d82c2e;
-    text-decoration: none;
+#about a {
+    color: #fff;
+    margin-top: 20px;
+
 }
+
+
 
 .red-divider{
     width: 100px;
@@ -413,6 +455,53 @@ footer h5{
     color: #fff;
     font-weight: normal;
 }
+
+
+/* CONTACT */
+#contact{
+    background: #d82c2e;
+}
+
+#contact .heading h2{
+    color: #fff;
+}
+
+
+.heading{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+#contact-form{
+    font-size: 20px;
+    color: #fff;
+
+}
+
+.form-control{
+    height: 50px;
+    font-size: 18px;
+}
+
+.comments{
+    font-style: italic;
+    font-size: 18px;
+    color: #fff;
+    height: 25px;
+}
+
+#contact-form input[type=submit]{
+    margin: 40px auto 0px;
+    display: block;
+}
+
+.thank-you{
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
 
 
 
