@@ -48,7 +48,7 @@ section .heading h2{
 
 
 .button1:hover{
-    background: white;
+    background: #134374;
     color: #d82c2e;
     text-decoration: none;
 
@@ -76,7 +76,7 @@ section .heading h2{
 
 .navbar .navbar-nav{
     display: inline-block;
-    float: none;
+
     vertical-align: top;
 }
 
@@ -106,10 +106,12 @@ section .heading h2{
 #about{
     padding-top: 100px;
     /* background: #d82c2e; */
-    background-image: url("../images/myheader1.png");
+    background-image: url("../images/header.png");
     background-size: cover;
     min-height: 840px;
     padding-bottom: 60px;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .profil-picture{
@@ -122,8 +124,16 @@ section .heading h2{
 #about .heading h1{
     color: #fff;
     text-transform: uppercase;
-    margin-top: 50px;
+    margin-top: 100px;
     
+}
+
+
+#about .heading{
+vertical-align: middle;
+   text-align: center;
+   position: relative;
+    margin-top: 80px
 }
 
 #about .container-fluid {
@@ -138,6 +148,7 @@ section .heading h2{
     text-transform: lowercase;
     margin-top: 30px;
     margin-bottom: 50px;
+    width: 83.33333333%;
     
 }
 
@@ -178,9 +189,31 @@ section .heading h2{
 }
 
 #skills .heading h2{
-    color: #d82c2e;
+    
+    font-family: 'Lusitana', serif;
+    margin-bottom: 0;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    
 }
 
+.light-gray {
+    color: #968E98;
+}
+
+
+.box-services {
+    min-height: 520px;
+    max-width: 1440px;
+    padding-bottom: 45px;
+    
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 #skills .progress{
     height: 100%;
     margin: 30px 20px;

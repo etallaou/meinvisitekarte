@@ -9,6 +9,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato">
+    <link href="https://fonts.googleapis.com/css?family=Lusitana" rel="stylesheet">
     <script src="js/script.js"></script>
 </head>
 
@@ -46,7 +47,7 @@
                     on se presente, on se presente, on se presente,on se presente,on se presente,on se presente,
                     on se presente,on se presente,on se presente,on se presente,on se presente,on se presente,on se pr
                 </h3>
-                <a href="href="#contact" class="button1">contactez nous</a>
+                <a href="href="#contact" class="button1">contactez nous!</a>
 
                 <p class="col-xs-12">
                     <em>Not on Slack?
@@ -62,44 +63,26 @@
         </section>
         
         <section id="skills">
-            <div class="red-divider"></div>
-            <div class="heading">
-                <h2>Skills</h2>
-            </div>
             <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width:65%">
-                                <h5>HTML5, CSS3, JS, Bootstrap, Angular 65%</h5>
-                            </div>
-                        </div>
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
-                                <h5> Python, Django, Flask, Jupiter 75%</h5>
-                            </div>
-                        </div>
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width:35%">
-                                <h5>Java EE, PHP, C# 35%</h5>
-                            </div>
+                <div class="row box-services center-block">
+                    <div class="services-text text-left col-md-6 col-md-offset-0 col-sm-8 col-sm-offset-2"> 
+                        <div class="services-text-col center-block">
+                            <h2>Pourquoi un Site web est important</h2>
+                            <p class="light-gray">
+                            The way we work and the tools we rely on to keep us productive are fundamentally changing.
+                            Important conversations have moved from email to chat apps like Slack and Hipchat to keep information flowing in real-time.
+                            Your business processes and functions need to follow suit.
+                            </p>
                         </div>
                     </div>
-                    <div class="col-md-6">
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
-                                <h5>Docker, Linux Administration 60%</h5>
-                            </div>
-                        </div>
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
-                                <h5>Confluence 70%</h5>
-                            </div>
-                        </div>
-                        <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
-                                <h5>Git, Mercurial 85%</h5>
-                            </div>
+                    <div class="services-text text-left col-md-6 col-md-offset-0 col-sm-8 col-sm-offset-2">
+                        <div class="services-text-col center-block">
+                            <h2>les avantages d'avoir sa boutique sur le net</h2>
+                            <p class="light-gray">
+                            The way we work and the tools we rely on to keep us productive are fundamentally changing.
+                            Important conversations have moved from email to chat apps like Slack and Hipchat to keep information flowing in real-time.
+                            Your business processes and functions need to follow suit.
+                            </p>
                         </div>
                     </div>
                     </div>

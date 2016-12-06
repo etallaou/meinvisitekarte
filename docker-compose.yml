@@ -1,6 +1,0 @@
-web:
-  build: .
-  ports:
-    - "83:80"
-  volumes:
-    - ./src/:/var/www/html:rw
