@@ -65,9 +65,9 @@
         <section id="skills">
             <div class="container">
                 <div class="row box-services center-block">
-                    <div class="services-text text-left col-md-6 col-md-offset-0 col-sm-8 col-sm-offset-2"> 
+                    <div class="services-text text-left col-md-5 col-md-offset-1 col-sm-8 col-sm-offset-2"> 
                         <div class="services-text-col center-block">
-                            <h2>Pourquoi un Site web est important</h2>
+                            <h2>Pourquoi un Site web est important?</h2>
                             <p class="light-gray">
                             The way we work and the tools we rely on to keep us productive are fundamentally changing.
                             Important conversations have moved from email to chat apps like Slack and Hipchat to keep information flowing in real-time.
@@ -75,7 +75,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="services-text text-left col-md-6 col-md-offset-0 col-sm-8 col-sm-offset-2">
+                    <div class="services-text text-right col-md-5 col-md-offset-1 col-sm-8 col-sm-offset-2">
                         <div class="services-text-col center-block">
                             <h2>les avantages d'avoir sa boutique sur le net</h2>
                             <p class="light-gray">

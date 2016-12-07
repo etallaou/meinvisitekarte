@@ -59,6 +59,7 @@ section .heading h2{
 
 .light-blue-gray {
     color: rgba(255,255,255,0.7);
+    
 }
 /*MENU*/
 
@@ -186,7 +187,13 @@ vertical-align: middle;
 #skills{
     background: #fff;
     
+    
 }
+
+#skills .light-gray p{
+    font-size: 30px;
+}
+
 
 #skills .heading h2{
     
@@ -196,12 +203,18 @@ vertical-align: middle;
     font-weight: 600;
     letter-spacing: 0.01em;
     
+
+    
 }
 
 .light-gray {
     color: #968E98;
+    font-size: 25px;
 }
 
+#skills h2{
+    font-size: 30px;
+}
 
 .box-services {
     min-height: 520px;
@@ -229,11 +242,19 @@ vertical-align: middle;
     text-shadow: 1px 1px 1px #000;
 }
 
+#skills .services-text{
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-left: 0px;
+    margin-right: 75px;
+    margin-top: 50px; 
+}
+
 
 /* EXPERIENCE */
 
 #experience{
-    background: #d82c2e;
+    background: #546E7A;
     
     
 }
