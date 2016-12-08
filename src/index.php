@@ -9,6 +9,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=adelle">
     <link href="https://fonts.googleapis.com/css?family=Lusitana" rel="stylesheet">
     <script src="js/script.js"></script>
 </head>
@@ -94,7 +95,7 @@
             <div class="container">
                 <div class="white-divider"></div>
                 <div class="heading">
-                    <h2>Professional Experience</h2>
+                    <h2>Nos Services</h2>
                 </div>
                 
                 <ul class="timeline">
@@ -103,14 +104,13 @@
                         <div class="timeline-panel-container">
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h3>ETS TALLA,</h3>
-                                    <h4>Sales assistant</h5>
-                                    <p class="text-muted"><small class="glyphicon glyphicon-time"></small> 208-2012</p>
+                                    <h2>Un SiteWeb</h2>
+                                    <h3><em>Resonsive et Proffessionel.</em></h3>
                                 </div>
                                 
                                 <div class="timeline-body">
-                                    <p>Planning and management of purchasing, sales, marketing and accounting</p>
-                                    <p>development of Microsoft Excel template to prepare annual financial statements and Invenrtar</p>
+                                    <p class="light-gray">Planning and management of purchasing, sales, marketing and accounting
+                                    development of Microsoft Excel template to prepare annual financial statements and Invenrtar</p>
                                 </div>
                             </div>
                         </div>
@@ -121,14 +121,13 @@
                         <div class="timeline-panel-container-inverted">
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h3>GILDEMEISTER energy	efficiency</h3>
-                                    <h4>Working student as a web and software developer</h5>
-                                    <p class="text-muted"><small class="glyphicon glyphicon-time"></small> 03/2016-09/2016</p>
+                                    <h2>Une Boutique</h2>
+                                    <h3><em>dynamique et securisé.</em></h3>
                                 </div>
                                 
                                 <div class="timeline-body">
-                                    <p>Further development of the frontend and the backend of an Energy Data Management System</p>
-                                    <p>Development of a software to configure janitza measuring device</p>
+                                    <p class="light-gray">Further development of the frontend and the backend of an Energy Data Management System
+                                    Development of a software to configure janitza measuring device</p>
                                 </div>
                             </div>
                         </div>
@@ -139,35 +138,16 @@
                     <div class="timeline-panel-container">
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h3>Bosch Engineering</h3>
-                                <h4>internship as web developer</h5>
-                                <p class="text-muted"><small class="glyphicon glyphicon-time"></small> 09/2016-Today</p>
+                                <h2> Un Blog</h2>
+                                <h3><em>Convivial, et stabil.</em></h3>
                             </div>
 
                             <div class="timeline-body">
-                                <p>Development of web service and Micro service to connect two database</p>
-                                <p>development of Microsoft Excel template to prepare annual financial statements and Invenrtar</p>
+                                <p class="light-gray">Development of web service and Micro service to connect two database
+                                development of Microsoft Excel template to prepare annual financial statements and Invenrtar</p>
                             </div>
                         </div>
                     </div>
-                    </li>
-                        
-                    <li>
-                        <div class="timeline-badge"><span class="glyphicon glyphicon-briefcase"></span></div>
-                        <div class="timeline-panel-container-inverted">
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h3>Bidiwe.CM</h3>
-                                    <h4>Community and SocialMedia Manager</h5>
-                                    <p class="text-muted"><small class="glyphicon glyphicon-time"></small> 09/2016-Today</p>
-                                </div>
-                                
-                                <div class="timeline-body">
-                                    <p>Implementation of social media campaigns </p>
-                                    <p>Management of all social media channels</p>
-                                </div>
-                            </div>
-                        </div>
                     </li>
                 </ul>
             </div>

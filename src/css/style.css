@@ -61,6 +61,12 @@ section .heading h2{
     color: rgba(255,255,255,0.7);
     
 }
+
+.light-gray {
+    color: #968E98;
+    
+}
+
 /*MENU*/
 
 
@@ -207,11 +213,10 @@ vertical-align: middle;
     
 }
 
-.light-gray {
-    color: #968E98;
+
+#skills p {
     font-size: 25px;
 }
-
 #skills h2{
     font-size: 30px;
 }
@@ -258,6 +263,31 @@ vertical-align: middle;
     
     
 }
+
+#experience p{
+    font-size: 1.25em;
+    color: #808C9D;
+}
+
+#experience h2{
+    font-family: 'adelle','adelle-sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    margin-bottom: 15px;
+    font-style: normal;
+    letter-spacing: 0.01em;
+    font-weight: 300;
+    color: #615483;
+}
+
+#experience h3{
+    font-family: 'adelle','adelle-sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 1.625em;
+    font-weight: 600;
+    color: #808C9D;
+    margin: 7px 0 0;
+    line-height: 1.5;
+    margin-bottom: 5px;
+}
+
 
 #experience .heading h2{
     color: #fff;
@@ -384,6 +414,7 @@ vertical-align: middle;
     background: #fff;
     
 }
+
 
 #education .heading h2{
     color: #d82c2e;
