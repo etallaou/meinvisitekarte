@@ -411,7 +411,7 @@ vertical-align: middle;
 /* EDUCATION */
 
 #education{
-    background: #fff;
+    background: #263238;
     
 }
 
@@ -421,7 +421,7 @@ vertical-align: middle;
 }
 
 .education-block{
-    width: 80%;
+    width: 65%;
     margin: 0 auto;
     text-align: center;
     padding: 30px;

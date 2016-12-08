@@ -156,13 +156,14 @@
             <div class="conatiner">
                 <div class="red-divider"></div>
                 <div class="heading">
-                    <h2>Education</h2>
+                    <h2>Nos Prestation</h2>
                 </div>
                 <div class="row">
-                    <div class="col-sm-6">
+                    <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
                         <div class="education-block">
                             <h5>2005 - 2012</h5> 
                             <span class="glyphicon glyphicon-education"></span>
+                            <div class="red-divider"></div>
                             <h3>College	Sainte Thérèse - Garoua	(kamerun)</h3>
                             <h4>Baccalauréat D</h4>
                             <div class="red-divider"></div>
@@ -171,17 +172,42 @@
                             <p>Informatics</p>
                         </div>
                     </div>
-                    <div class="col-sm-6">
+                    <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
                         <div class="education-block">
                             <h5>2014-2016</h5> 
                             <span class="glyphicon glyphicon-education"></span>
+                            <div class="red-divider"></div>
                             <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
                             <h4>Bachelor Business Informatic</h4>
                             <div class="red-divider"></div>
                             <p>Developing web and mobile IT systems</p>
                             <p>IT Management</p>
                         </div>
-                    </div>  
+                    </div>
+                    <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
+                        <div class="education-block">
+                            <h5>2014-2016</h5> 
+                            <span class="glyphicon glyphicon-education"></span>
+                            <div class="red-divider"></div>
+                            <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
+                            <h4>Bachelor Business Informatic</h4>
+                            <div class="red-divider"></div>
+                            <p>Developing web and mobile IT systems</p>
+                            <p>IT Management</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
+                        <div class="education-block">
+                            <h5>2014-2016</h5> 
+                            <span class="glyphicon glyphicon-education"></span>
+                            <div class="red-divider"></div>
+                            <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
+                            <h4>Bachelor Business Informatic</h4>
+                            <div class="red-divider"></div>
+                            <p>Developing web and mobile IT systems</p>
+                            <p>IT Management</p>
+                        </div>
+                    </div>    
                 </div>
             </div>
     
