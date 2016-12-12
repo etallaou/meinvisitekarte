@@ -161,7 +161,7 @@
                 <div class="row">
                     <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
                         <div class="education-block">
-                            <h5>2005 - 2012</h5> 
+                            <h5>Blog</h5> 
                             <span class="glyphicon glyphicon-education"></span>
                             <div class="red-divider"></div>
                             <h3>College	Sainte Thérèse - Garoua	(kamerun)</h3>
@@ -174,7 +174,7 @@
                     </div>
                     <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
                         <div class="education-block">
-                            <h5>2014-2016</h5> 
+                            <h5>Site-Vitrine</h5> 
                             <span class="glyphicon glyphicon-education"></span>
                             <div class="red-divider"></div>
                             <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
@@ -186,7 +186,7 @@
                     </div>
                     <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
                         <div class="education-block">
-                            <h5>2014-2016</h5> 
+                            <h5>Site-e commerce</h5> 
                             <span class="glyphicon glyphicon-education"></span>
                             <div class="red-divider"></div>
                             <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
@@ -198,7 +198,7 @@
                     </div>
                     <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
                         <div class="education-block">
-                            <h5>2014-2016</h5> 
+                            <h5>SiteWeb Proffessionel</h5> 
                             <span class="glyphicon glyphicon-education"></span>
                             <div class="red-divider"></div>
                             <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
