@@ -415,6 +415,35 @@ vertical-align: middle;
     
 }
 
+#education  .spacer{
+    height: 150px;
+}
+
+#education  .pricing-box .free-box {
+    border: 2px dashed rgba(255,255,255,0.5);
+        border-radius: 30px;
+    max-width: 40%;
+    height: 350px;
+    margin-bottom: -310px;
+    margin-left: 30%;
+}
+
+#education  .pricing-box .free-box h3 {
+    color: #fff;
+    margin: 35px 0 0 ;
+}
+
+#education .pricing-box .free-box p {
+    color: #D4CEDE;
+    font-size: 20px;
+    margin: 0 0 130px;
+}
+#education h3 {
+    font-size: 1.5em;
+    line-height: 1.35em;
+    font-weight: 300;
+}
+
 
 #education .heading h2{
     color: #d82c2e;

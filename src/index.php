@@ -104,7 +104,7 @@
                         <div class="timeline-panel-container">
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h2>Un SiteWeb</h2>
+                                    <h2>Un Site Vitrine</h2>
                                     <h3><em>Resonsive et Proffessionel.</em></h3>
                                 </div>
                                 
@@ -138,7 +138,24 @@
                     <div class="timeline-panel-container">
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h2> Un Blog</h2>
+                                <h2> Un Forum</h2>
+                                <h3><em>Convivial, et stabil.</em></h3>
+                            </div>
+
+                            <div class="timeline-body">
+                                <p class="light-gray">Development of web service and Micro service to connect two database
+                                development of Microsoft Excel template to prepare annual financial statements and Invenrtar</p>
+                            </div>
+                        </div>
+                    </div>
+                    </li>
+
+                    <li>
+                    <div class="timeline-badge"><span class="glyphicon glyphicon-briefcase"></span></div>
+                    <div class="timeline-panel-container-inverted">
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h2> Un site Wiki</h2>
                                 <h3><em>Convivial, et stabil.</em></h3>
                             </div>
 
@@ -154,14 +171,23 @@
         </section>
         <section id="education">
             <div class="conatiner">
-                <div class="red-divider"></div>
-                <div class="heading">
-                    <h2>Nos Prestation</h2>
+                
+                <div class="pricing-box row">
+                <div class="heading">                    
+                    <div class="free-box col-md-6 col-md-offset-4 col-sm-7 col-sm-offset-3 col-xs-9 col-xs-offset-2">
+                    <h3>
+                        Nous t'offrons ton SiteWeb dans un temps tres reduit.
+                    </h3>
+                    <p>
+                        Les devis de création et référencement de site internet de notre agence web sont réalisés après étude de vos besoins. Nous étudierons ensemble les différentes fonctionnalités de votre site internet et établirons un cahier des charges adapté à votre budget. Nous prenons en compte tous les aspects utiles à un devis réaliste
+                    </p>
+                    </div>
                 </div>
+                <div class="spacer"><p>Les devis de création et référencement de site internet de notre agence web sont réalisés après étude de vos besoins. Nous étudierons ensemble les différentes fonctionnalités de votre site internet et établirons un cahier des charges adapté à votre budget. Nous prenons en compte tous les aspects utiles à un devis réaliste</p></div>
                 <div class="row">
                     <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
                         <div class="education-block">
-                            <h5>Blog</h5> 
+                            <h5>Conception</h5> 
                             <span class="glyphicon glyphicon-education"></span>
                             <div class="red-divider"></div>
                             <h3>College	Sainte Thérèse - Garoua	(kamerun)</h3>
@@ -174,7 +200,7 @@
                     </div>
                     <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
                         <div class="education-block">
-                            <h5>Site-Vitrine</h5> 
+                            <h5>L'entretient</h5> 
                             <span class="glyphicon glyphicon-education"></span>
                             <div class="red-divider"></div>
                             <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
@@ -186,7 +212,7 @@
                     </div>
                     <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
                         <div class="education-block">
-                            <h5>Site-e commerce</h5> 
+                            <h5>L'ebergement</h5> 
                             <span class="glyphicon glyphicon-education"></span>
                             <div class="red-divider"></div>
                             <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
@@ -198,7 +224,7 @@
                     </div>
                     <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
                         <div class="education-block">
-                            <h5>SiteWeb Proffessionel</h5> 
+                            <h5>All in One</h5> 
                             <span class="glyphicon glyphicon-education"></span>
                             <div class="red-divider"></div>
                             <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
@@ -209,6 +235,11 @@
                         </div>
                     </div>    
                 </div>
+                </div>
+                </div>
+
+                
+                
             </div>
     
         </section>
