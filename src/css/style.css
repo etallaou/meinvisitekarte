@@ -271,7 +271,7 @@ vertical-align: middle;
 
 #experience h2{
     font-family: 'adelle','adelle-sans','Helvetica Neue',Helvetica,Arial,sans-serif;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     font-style: normal;
     letter-spacing: 0.01em;
     font-weight: 300;
@@ -415,17 +415,42 @@ vertical-align: middle;
     
 }
 
+#education  .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#education .pricing-box .price .price-box .white-bg h2 {
+    margin-top: 12px;
+    font-size: 2.375em;
+    padding: 0;
+    color: #7C4E83;
+}
+
+#education .pricing-box .price .price-box .white-bg .value .dollar {
+    color: #8E8AA9;
+    font-size: 1.375em;
+    top: 40px;
+    left: 61px;
+    position: inherit;
+}
+#education .pricing-box .price .price-box .white-bg .value .cost {
+    color: #220B3D;
+    font-size: 3.75em;
+    font-weight: 500;
+    line-height: 70px;
+}
 #education  .spacer{
-    height: 150px;
+    height: 10px;
 }
 
 #education  .pricing-box .free-box {
     border: 2px dashed rgba(255,255,255,0.5);
-        border-radius: 30px;
-    max-width: 40%;
-    height: 350px;
-    margin-bottom: -310px;
-    margin-left: 30%;
+    border-radius: 30px;
+    max-width: 50%;
+    height: 275px;
+    margin-bottom: 30px;
+    margin-left: 350px;
 }
 
 #education  .pricing-box .free-box h3 {
@@ -433,15 +458,53 @@ vertical-align: middle;
     margin: 35px 0 0 ;
 }
 
+#education  .pricing-box .free-box h2 {
+    color: #fff;
+    margin: 15px 0 0 ;
+}
+
 #education .pricing-box .free-box p {
     color: #D4CEDE;
     font-size: 20px;
     margin: 0 0 130px;
+    padding-bottom: 10px;
 }
 #education h3 {
     font-size: 1.5em;
     line-height: 1.35em;
     font-weight: 300;
+}
+
+.dashed-button {
+    color: #7C4E83;
+    background-color: #F0EFF5;
+    border: 2px dashed #A8A5BF;
+    width: 100%;
+    max-width: 224px;
+    font-size: 1.125em;
+    padding: 5px 16px 9px;
+    margin-bottom: 15px;
+}
+
+.pricing-box .price.free .price-box .options {
+    border-radius: 0 0 5px 5px;
+}
+
+.pricing-box .price .price-box .options .option {
+    border-bottom: 2px dashed #CED2D8;
+    padding: 20px 0 17px;
+}
+
+.pricing-box .price .price-box .options {
+    min-height: 340px;
+    background-color: rgba(255,255,255,0.7);
+    width: 100%;
+    color: #8E8AA9;
+    padding: 0 30px;
+}
+.pricing-box .price .price-box .options .option .opt-name {
+    font-size: 1.125em;
+    font-weight: 600;
 }
 
 
@@ -450,10 +513,10 @@ vertical-align: middle;
 }
 
 .education-block{
-    width: 65%;
+    width: 95%;
     margin: 0 auto;
     text-align: center;
-    padding: 30px;
+
     background: #ddd;
     border-radius: 10px;
     border: 2px solid #CCC;

@@ -173,67 +173,202 @@
             <div class="conatiner">
                 
                 <div class="pricing-box row">
-                <div class="heading">                    
+                    <div class="white-divider"></div>
                     <div class="free-box col-md-6 col-md-offset-4 col-sm-7 col-sm-offset-3 col-xs-9 col-xs-offset-2">
-                    <h3>
-                        Nous t'offrons ton SiteWeb dans un temps tres reduit.
-                    </h3>
-                    <p>
-                        Les devis de création et référencement de site internet de notre agence web sont réalisés après étude de vos besoins. Nous étudierons ensemble les différentes fonctionnalités de votre site internet et établirons un cahier des charges adapté à votre budget. Nous prenons en compte tous les aspects utiles à un devis réaliste
-                    </p>
+                        <h2>Nos Prix</h2>
+                        <h3>Nous t'offrons ton SiteWeb dans un temps tres reduit.</h3>
+                        <p>Les devis de création et référencement de site internet de notre agence web sont réalisés après étude de vos besoins. Nous étudierons ensemble les différentes fonctionnalités de votre site internet et établirons un cahier des charges adapté à votre budget. Nous prenons en compte tous les aspects utiles à un devis réaliste</p>
+                    </div>
+                    <div class="price free col-md-4 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
+                        <div class=" price-box education-block">
+                            <div class="white-bg">
+                                <h2>Business</h2>
+                                <div class="value center-block">
+                                    <span class="dollar ">à p.</span>
+                                    <span class="cost">99</span>
+                                    <span class="glyphicon glyphicon-euro"></span>
+                                </div>
+                                <a class="btn btn-lg dashed-button" href="https://assistant.talla.com/install">En Savoir plus</a>
+                            </div>
+                            <div class="options">
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Number of Employees
+                                    </div>
+                                    <div>
+                                        50 users
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Number of Workflows
+                                    </div>
+                                    <div>
+                                        5
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Integrations
+                                    </div>
+                                    <div>
+                                        1
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Customer Support
+                                    </div>
+                                    <div>
+                                        Web only
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="price free col-md-4 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
+                        <div class=" price-box education-block">
+                            <div class="white-bg">
+                                <h2>Perfectionné</h2>
+                                <div class="value center-block">
+                                    <span class="dollar ">à p.</span>
+                                    <span class="cost">299</span>
+                                    <span class="glyphicon glyphicon-euro"></span>
+                                </div>
+                                <a class="btn btn-lg dashed-button" href="https://assistant.talla.com/install">En Savoir plus</a>
+                            </div>
+                            <div class="options">
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Number of Employees
+                                    </div>
+                                    <div>
+                                        50 users
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Number of Workflows
+                                    </div>
+                                    <div>
+                                        5
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Integrations
+                                    </div>
+                                    <div>
+                                        1
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Customer Support
+                                    </div>
+                                    <div>
+                                        Web only
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Customer Support
+                                    </div>
+                                    <div>
+                                        Web only
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Customer Support
+                                    </div>
+                                    <div>
+                                        Web only
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="price free col-md-4 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
+                        <div class=" price-box education-block">
+                            <div class="white-bg">
+                                <h2>Premium</h2>
+                                <div class="value center-block">
+                                    <span class="dollar ">à p.</span>
+                                    <span class="cost">799</span>
+                                    <span class="glyphicon glyphicon-euro"></span>
+                                </div>
+                                <a class="btn btn-lg dashed-button" href="https://assistant.talla.com/install">En Savoir plus</a>
+                            </div>
+                            <div class="options">
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Number of Employees
+                                    </div>
+                                    <div>
+                                        50 users
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Number of Workflows
+                                    </div>
+                                    <div>
+                                        5
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Integrations
+                                    </div>
+                                    <div>
+                                        1
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Customer Support
+                                    </div>
+                                    <div>
+                                        Web only
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Customer Support
+                                    </div>
+                                    <div>
+                                        Web only
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Customer Support
+                                    </div>
+                                    <div>
+                                        Web only
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Customer Support
+                                    </div>
+                                    <div>
+                                        Web only
+                                    </div>
+                                </div>
+                                <div class="option">
+                                    <div class="opt-name">
+                                        Customer Support
+                                    </div>
+                                    <div>
+                                        Web only
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="spacer"><p>Les devis de création et référencement de site internet de notre agence web sont réalisés après étude de vos besoins. Nous étudierons ensemble les différentes fonctionnalités de votre site internet et établirons un cahier des charges adapté à votre budget. Nous prenons en compte tous les aspects utiles à un devis réaliste</p></div>
-                <div class="row">
-                    <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
-                        <div class="education-block">
-                            <h5>Conception</h5> 
-                            <span class="glyphicon glyphicon-education"></span>
-                            <div class="red-divider"></div>
-                            <h3>College	Sainte Thérèse - Garoua	(kamerun)</h3>
-                            <h4>Baccalauréat D</h4>
-                            <div class="red-divider"></div>
-                            <p>Mathematics</p>
-                            <p>Life science</p>
-                            <p>Informatics</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
-                        <div class="education-block">
-                            <h5>L'entretient</h5> 
-                            <span class="glyphicon glyphicon-education"></span>
-                            <div class="red-divider"></div>
-                            <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
-                            <h4>Bachelor Business Informatic</h4>
-                            <div class="red-divider"></div>
-                            <p>Developing web and mobile IT systems</p>
-                            <p>IT Management</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
-                        <div class="education-block">
-                            <h5>L'ebergement</h5> 
-                            <span class="glyphicon glyphicon-education"></span>
-                            <div class="red-divider"></div>
-                            <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
-                            <h4>Bachelor Business Informatic</h4>
-                            <div class="red-divider"></div>
-                            <p>Developing web and mobile IT systems</p>
-                            <p>IT Management</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-md-offset-0 col-sm-5 col-xs-offset-1 col-xs-10">
-                        <div class="education-block">
-                            <h5>All in One</h5> 
-                            <span class="glyphicon glyphicon-education"></span>
-                            <div class="red-divider"></div>
-                            <h3>Heilbronn University of Applied Sciences, Business and informatics</h3>
-                            <h4>Bachelor Business Informatic</h4>
-                            <div class="red-divider"></div>
-                            <p>Developing web and mobile IT systems</p>
-                            <p>IT Management</p>
-                        </div>
-                    </div>    
                 </div>
                 </div>
                 </div>
@@ -243,91 +378,7 @@
             </div>
     
         </section>
-    
-        <section id="portfolio">
-            <div class="container">
-                <div class="white-divider"></div>
-                <div class="heading">
-                    <h2>Portfolio</h2>
-                </div>
-                <div class="row">
-                    <div class="col-sm-4">
-                        <a class="thumbnail" href="http://www.facebook.com" target="_blank">
-                            <img src="images/facebook_share.png" alt="facebook share">
-                        </a>
-                    </div>
-                    <div class="col-sm-4">
-                        <a class="thumbnail" href="http://www.twitter.com" target="_blank">
-                            <img src="images/twitter_retweet.png" alt="twitter retweet">
-                        </a>
-                    </div>
-                    <div class="col-sm-4">
-                        <a class="thumbnail" href="http://www.bosch-engineering.de/" target="_blank">
-                            <img src="images/bosche.png" alt="bosch engineering">
-                        </a>
-                    </div>
-                </div>
-                
-                <div class="row">
-                    <div class="col-sm-4">
-                        <a class="thumbnail" href="http://www.bidiwe.cm/" target="_blank">
-                            <img src="images/bidiklein.jpg" alt="bidiwe cm">
-                        </a>
-                    </div>
-                    <div class="col-sm-4">
-                        <a class="thumbnail" href="http://energy.gildemeister.com/de" target="_blank">
-                            <img src="images/dmgmori.png" alt="gildemeister energy">
-                        </a>
-                    </div>
-                    <div class="col-sm-4">
-                        <a class="thumbnail" href="https://www.hs-heilbronn.de/" target="_blank">
-                            <img src="images/hs.png" alt="hochschule heilbronn">
-                        </a>
-                    </div>
-                </div>
-            </div>
-    
-        </section>
-        <section id="recommandations">
-            <div class="container">
-                <div class="red-divider"></div>
-                <div class="heading">
-                    <h2>Recommandations</h2>
-                </div>
-                <div id="monCarousel" class="carousel slide text-center" data-ride="carousel">
-                    <ol class="carousel-indicators">
-                        <li data-target="#monCarousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#monCarousel" data-slide-to="1"></li>
-                        <li data-target="#monCarousel" data-slide-to="2"></li>
-                    </ol>
-                    <div  class="carousel-inner" role="listbox">
-                        <div class="item active">
-                            <h3>"You are really professional and.... amazing..."</h3>
-                            <h4>Delly Christian FoFie, Co-Owner & Lead Developer Bidiwe</h4>
-                        </div>
-                        <div class="item">
-                            <h3>"The most creative mind in my life"</h3>
-                            <h4>Berthold Talla, IT Consultant chez Novum GmbH</h4>
-                        </div>
-                        <div class="item">
-                            <h3>"Eddy would be an asset to any team."</h3>
-                            <h4>lewicki Paul, BEG Tool Coordinator.</h4>
-                        </div>
-                    </div>
-                    
-                    <a class="left carousel-control" href="#monCarousel" data-slide="prev" role="button">
-                        <span class="glyphicon glyphicon-chevron-left"></span>
-                    </a>
-                    
-                    <a class="right carousel-control" href="#monCarousel" data-slide="next" role="button">
-                        <span class="glyphicon glyphicon-chevron-right"></span>
-                    </a>
-                
-                </div>
-            </div>
-            
-        </section>
-
+        
         <section id="contact">
 
             <div class="container">
@@ -393,6 +444,71 @@
         </section>
     
         <footer class="text-center">
+            <footer class="row">
+                <div class="footer-box center-block">
+                    <div class="footer-links col-sm-3 col-sm-offset-1 text-left xs-text-center">
+                        <div class="footer-cell">
+                            <img src="/assets/grey_logo-7737e32b8f0993848879a5b9b2d47cc22786c42714927609a86c189106eca00e.png" alt="Grey logo">
+                        </div>
+                        <div class="footer-cell">
+                            <a title="617) 517-4156" href="tel:+16175174156">(617) 517-4156</a>
+                        </div>
+                        <div class="footer-cell">
+                            <a href="mailto:hello@talla.com">hello@talla.com</a>
+                        </div>
+                    </div>
+                    <div class="footer-links col-sm-2 text-left xs-text-center">
+                        <div class="footer-cell">
+                            ABOUT TALLA
+                        </div>
+                        <div class="footer-cell">
+                            <a title="Features" href="/features">Features</a>
+                        </div>
+                        <div class="footer-cell">
+                            <a title="Pricing" href="/pricing">Pricing</a>
+                        </div>
+                        <div class="footer-cell">
+                            <a title="Press" href="http://pages.talla.com/press">Press</a>
+                        </div>
+                        <div class="footer-cell">
+                            <a title="Company" href="/about-us">Company</a>
+                        </div>
+                    </div>
+                    <div class="footer-links col-sm-2 text-left xs-text-center">
+                        <div class="footer-cell">
+                            <br>
+                        </div>
+                        <div class="footer-cell">
+                            <a title="Privacy Policy" href="/privacy">Privacy Policy</a>
+                        </div>
+                        <div class="footer-cell">
+                            <a title="Disclaimers" href="/disclaimers">Disclaimers</a>
+                        </div>
+                        <div class="footer-cell">
+                            <a title="Terms of Use" href="/terms">Terms of Use</a>
+                        </div>
+                        <div class="footer-cell">
+                            <a title="Blog" href="http://blog.talla.com">Blog</a>
+                        </div>
+                    </div>
+                    <div class="footer-links social-links col-md-3 col-sm-4">
+                        <div class="social-links pull-right sm-pull-left">
+                            <div class="footer-cell text-left xs-text-center">
+                                COMMUNITY
+                            </div>
+                            <div class="footer-cell social">
+                                <a target="_blank" href="https://twitter.com/TallaInc"></a>
+                                <a target="_blank" class="social-fb" href="https://www.facebook.com/tallainc"></a>
+                                <a target="_blank" class="social-in" href="https://www.linkedin.com/company/talla"></a>
+                                <a target="_blank" class="social-md" href="https://medium.com/talla-inc"></a>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="copyright col-sm-10 col-sm-offset-1">© 2016  Talla Inc All rights reserved.</div>
+                </div>
+            </footer>
             <a href="#about">
                 <span class="glyphicon glyphicon-chevron-up"></span>
             </a>
